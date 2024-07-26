@@ -1,1 +1,1 @@
-# Cloth-Segementation using Segment anything Model by Meta AI
+# Cloth-Segementation using Segment anything model (SAM) by Meta AI
