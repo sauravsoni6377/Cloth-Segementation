@@ -1,0 +1,6 @@
+checkpoint : "/home/saurav-soni/Downloads/segmentClothes/checkpoint/sam.pth"
+detect_model : "IDEA-Research/grounding-dino-base"
+prompt : "tshirt"
+dataset : '/home/saurav-soni/Downloads/segmentClothes/dataset/law/img'
+output_dir : '/home/saurav-soni/Downloads/segmentClothes/ouputs/law'
+num_images : 1
