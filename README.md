@@ -8,7 +8,7 @@ Key features include a dual-method pipeline combining **SegFormer** (from Huggin
 ---
 
 ## Features
-- **SAM Integration**: Utilizes SAM for general-purpose segmentation, enabling robust object detection and annotation for various datasets.
+- **SAM Integration**: Utilizes SAM for general-purpose segmentation, enabling robust object detection and annotation for various datasets. 
 - **Dual-Method Pipeline**: Combines SAM with SegFormer for enhanced accuracy, leveraging point-based priors to refine segment boundaries and resolve inconsistencies.
 - **One-Shot Learning**: Personalizes SAM for clothing-specific datasets, optimizing segmentation performance for textured materials and unique designs.
 - **Automated and Scalable**: Processes large image datasets efficiently, making it ideal for applications in fashion and e-commerce domains.
