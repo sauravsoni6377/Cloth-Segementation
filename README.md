@@ -2,7 +2,7 @@
 
 ## Overview
 This repository presents an advanced object segmentation tool tailored for efficient and accurate segmentation of clothing items in large-scale image datasets. Built on the robust foundation of SAM (Segment Anything Model) by Meta AI, the tool introduces a personalized approach that significantly reduces manual annotation efforts and enhances segmentation precision. 
-
+ 
 Key features include a dual-method pipeline combining **SegFormer** (from Hugging Face) with point-based priors, one-shot learning for fine-tuning, and optimizations for challenging textured clothing materials. The tool is designed to address the unique needs of fashion and e-commerce applications, as well as to support researchers in advanced computer vision tasks. 
 
 --- 
