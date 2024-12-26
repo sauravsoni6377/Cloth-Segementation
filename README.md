@@ -81,7 +81,3 @@ Key features include a dual-method pipeline combining **SegFormer** (from Huggin
 
 ---
 
-## Contributions
-We welcome contributions to improve the tool. Feel free to fork the repository, create a new branch, and submit a pull request.
-
-For questions or support, contact [Your Contact Information].
