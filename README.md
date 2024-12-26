@@ -5,7 +5,7 @@ This repository presents an advanced object segmentation tool tailored for effic
 
 Key features include a dual-method pipeline combining **SegFormer** (from Hugging Face) with point-based priors, one-shot learning for fine-tuning, and optimizations for challenging textured clothing materials. The tool is designed to address the unique needs of fashion and e-commerce applications, as well as to support researchers in advanced computer vision tasks.
 
----
+--- 
 
 ## Features
 - **SAM Integration**: Utilizes SAM for general-purpose segmentation, enabling robust object detection and annotation for various datasets. 
